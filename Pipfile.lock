@@ -8,7 +8,7 @@
         "sources": [
             {
                 "name": "pypi",
-                "url": "http://mirrors.aliyun.com/pypi/simple/ ",
+                "url": "https://pypi.tuna.tsinghua.edu.cn/simple/",
                 "verify_ssl": true
             }
         ]
